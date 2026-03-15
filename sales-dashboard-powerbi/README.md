@@ -1,4 +1,6 @@
-# Sales Performance Dashboard
+![Dashboard](Cover.jpg)
+
+Sales Performance Dashboard | Power BI Data Analysis Project
 
 ## Project Overview
 This project analyzes sales performance across different regions, product categories, and time periods using Power BI.
@@ -24,9 +26,6 @@ This project analyzes sales performance across different regions, product catego
 This dashboard helps businesses monitor performance, identify top products, and make data-driven decisions.
 
 ## Dashboard Preview
-
-### Dashboard Cover
-![Dashboard Cover](Cover.jpg)
 
 ### Sales Overview
 ![Sales Overview](Sales%20OverView.jpg)
