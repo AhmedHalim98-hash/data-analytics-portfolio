@@ -22,11 +22,3 @@ This project analyzes sales performance across different regions, product catego
 
 ## Business Value
 This dashboard helps businesses monitor performance, identify top products, and make data-driven decisions.
-
-## Dashboard Preview
-
-![Dashboard](IMG-20260315-WA....jpg)
-
-![Dashboard](IMG-20260315-WA....jpg)
-
-![Dashboard](IMG-20260315-WA....jpg)
