@@ -22,3 +22,14 @@ This project analyzes sales performance across different regions, product catego
 
 ## Business Value
 This dashboard helps businesses monitor performance, identify top products, and make data-driven decisions.
+
+## Dashboard Preview
+
+### Dashboard Cover
+![Dashboard Cover](Cover.jpg)
+
+### Sales Overview
+![Sales Overview](Sales%20OverView.jpg)
+
+### Product Analysis
+![Product Analysis](Product%20Analysis.jpg)
